@@ -31,7 +31,7 @@ Ralf
 
 ## buzzwords und links
 
--[](https://useiconic.com/)
+-[Use Iconic](https://useiconic.com/)
 
 -[SVG Sprites](https://github.com/jkphl/svg-sprite)
 
